@@ -1,0 +1,102 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"null",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "open_ads_wortise":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ChatAI",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ChatAI",
+      "title": "Learn the Basics",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Begin your journey by understanding the fundamentals of ChatAI.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Learn_the_Basics.html"
+    },
+    {
+      "id": 2,
+      "name_category": "ChatAI",
+      "title": "Advanced Techniques",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Take your skills to the next level with advanced techniques.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Advanced_Techniques.html"
+    },
+    {
+      "id": 3,
+      "name_category": "ChatAI",
+      "title": "Optimize Interactions",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Get insights into optimizing your interactions with ChatAI.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Optimize_Interactions.html"
+    },
+    {
+      "id": 4,
+      "name_category": "ChatAI",
+      "title": "AI Tips and Tricks",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Unlock valuable tips and tricks that experts use to maximize the potential of ChatAI.",
+      "link": "https://luluilmaknun023.github.io/rintjong/AI_Tips_and_Tricks.html"
+    },
+     {
+      "id": 5,
+      "name_category": "ChatAI",
+      "title": "Real-time Practice",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Practice with real-time simulations of various scenarios to gain practical experience.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Real_time_Practice.html"
+    },
+    {
+      "id": 6,
+      "name_category": "ChatAI",
+      "title": "Stay Updated",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Stay in the loop with the latest AI advancements.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Stay_Updated.html"
+    },
+    {
+      "id": 7,
+      "name_category": "ChatAI",
+      "title": "Community Support",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Connect with a vibrant community of AI enthusiasts.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Community_Support.html"
+    },
+    {
+      "id": 8,
+      "name_category": "ChatAI",
+      "title": "Level Up",
+      "image": "https://luluilmaknun023.github.io/rintjong/chat-ai-icon.png",
+      "description": "Track your progress and achievements as you level up your AI conversation skills.",
+      "link": "https://luluilmaknun023.github.io/rintjong/Level_Up.html"
+    }
+  ]
+}
